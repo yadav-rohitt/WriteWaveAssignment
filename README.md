@@ -2,7 +2,8 @@
 
 
 ##  Project Overview
-Proxify is a platform that provides access to a network of professional developers for hire. The website (https://write-wave-gamma.vercel.app/) offers various plans tailored to different needs, such as part-time, full-time, or project-based  work.
+Write Wave is website that create stories. The website (https://write-wave-gamma.vercel.app/) This test plan outlines the testing approach, scope, objectives, test scenarios, test cases, and defect management for the WriteWave Website, a collaborative writing platform. The primary focus is to validate UI, functionality, navigation, security, and performance to ensure all features work as expected.
+
 
 This project focuses on **manual testing** of key modules within the Write Wave Website. The testing process involves verifying core functionalities, UI/UX aspects and system responses.
 
